@@ -1,12 +1,12 @@
-## Hi there 👋
 
-<!--
+# NeonCRMAnalytics
 
-**Here are some ideas to get you started:**
+![Swiss American Chamber of Commerce Logo](https://saccsf.com/wp-content/uploads/2015/05/saccsf-logo.jpg)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+these repositories were created as part of a university project at HSLU Lucerne in 2024. The aim of the project was to obtain an overview of the data from the existing CRM and to generate a report on it. The students also decided to automate the reporting via Github action. 
+
+## Authors
+
+- [@nicola-hermann](https://github.com/nicola-hermann)
+- [@alexIruth](https://github.com/AlexIruth)
+- [@flawas](https://github.com/flawas)
